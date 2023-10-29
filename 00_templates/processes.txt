@@ -1,0 +1,15 @@
+# [processes]
+[Processes in Linux can be divided into three cateqories: Daemons Services, and Programs]
+
+## Key-terms
+[telnet, ssh, vim.]
+
+## Opdracht
+### Gebruikte bronnen
+[https://www.howtoforge.com/how-to-install-and-use-telnet-on-ubuntu/]
+
+### Ervaren problemen
+[How to start the telnet daemon en find how mutch memory telnet daemon is using.]
+
+### Resultaat
+[opdracht is gelukt.]
