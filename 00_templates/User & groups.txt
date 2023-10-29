@@ -1,0 +1,16 @@
+# [User & groups]
+[A user is an account that can be used to authenticate and access the system.]
+[A group is a collection of users with similar access rights and permissions.]
+
+## Key-terms
+[create user- useradd .]
+[create Group- groupadd.]
+## Opdracht
+### Gebruikte bronnen
+[https://www.youtube.com/watch?v=7d_4b7uZTtk.]
+
+### Ervaren problemen
+[In eerste lukte het niet om nieuwe  gebruiker te maken omdat ik niet sudo schrijft(sudo useradd.]
+
+### Resultaat
+[create user en group is gelukt.]
