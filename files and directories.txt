@@ -1,0 +1,18 @@
+# [files and directories]
+[file is basic unit of data storage]
+[directories are containers used to organize files]
+
+## Key-terms
+[(mkdir) to create directorie]
+[(touch,nano vim) to create file]
+## Opdracht
+
+
+### Gebruikte bronnen
+[https://www.youtube.com/watch?v=xcPtqnGB3uk]
+
+### Ervaren problemen
+[.]
+
+### Resultaat
+[Gelukt ]
