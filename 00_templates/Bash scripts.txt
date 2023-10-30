@@ -1,0 +1,17 @@
+# [Bash scripts]
+[A script file written in Bash script to perform specific tasks]
+
+## Key-terms
+[Any script written in Bash script must begin (#!/bin/bash.]
+
+## Opdracht
+### Gebruikte bronnen
+[https://www.youtube.com/watch?v=dePp5JFCyZ4]
+[https://www.youtube.com/watch?v=EXtGT2teFX0]
+[https://www.youtube.com/watch?v=SPwyp2NG-bE]
+[https://tldp.org/LDP/abs/abs-guide.pdf]
+### Ervaren problemen
+[create script]
+
+### Resultaat
+[opdracht is gelukt.]
