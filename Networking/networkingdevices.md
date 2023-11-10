@@ -1,4 +1,4 @@
-# [Networking devices]
+# [Networkingdevices]
 [Networking devices are hardware units that facilitate communication between computers and other electronic devices]
 
 ## Key-terms
